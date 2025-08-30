@@ -38,3 +38,5 @@ For this project, we use a housing dataset containing features such as:
 6. Visualize predictions vs actual prices  
 ore:", r2_score(y_test, y_pred))
 print("MSE:", mean_squared_error(y_test, y_pred))
+# OUTPUT
+<img width="1909" height="1134" alt="Image" src="https://github.com/user-attachments/assets/e57d9816-67f5-4f96-9a25-f985534952b2" />
